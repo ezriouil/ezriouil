@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android & IOS
 - 🌱 I’m currently learning Jetpack Compose
-- 📫 How to reach me: ezriouil2003@gmail.com
+- 📫 How to reach me: ezriouil.dev@gmail.com
 
 
 ## 🌐 Socials:
