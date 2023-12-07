@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Android
-- 🌱 I’m currently learning Jetpack Compose
+- 🔭 I’m currently working on Android + Ios + Web
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: ezriouil.dev@gmail.com
 
 
