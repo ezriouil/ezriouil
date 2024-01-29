@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android + Ios + Web
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Back-End
 - 📫 How to reach me: ezriouil.dev@gmail.com
 
 
