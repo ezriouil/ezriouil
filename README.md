@@ -1,8 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:ec4899,100:58a6ff&amp;height=120&amp;section=footer&amp;reversal=true" width="100%" alt="Footer" />
-</div>
+<table width="100%">
+<tr>
+<td style="background-image: url('https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/main/assets/gradient.gif'); background-size: cover; background-position: center; padding: 24px; border-radius: 12px;">
 
 <h1 align="center">Hi 👋, I'm Mohamed Ezriouil</h1>
+<p align="center">Software Engineer · Mobile & Web Developer</p>
 <p align="center">Building exceptional digital experiences</p>
 
 ---
@@ -70,6 +71,6 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
   <img src="https://komarev.com/ghpvc/?username=ezriouil&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:ec4899,100:58a6ff&height=120&section=footer&reversal=true" width="100%" alt="Footer" />
-</div>
+</td>
+</tr>
+</table>
