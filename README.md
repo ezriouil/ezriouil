@@ -1,6 +1,5 @@
 <table width="100%">
 <tr>
-<td style="background-image: url('https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/main/assets/gradient.gif'); background-size: cover; background-position: center; padding: 24px; border-radius: 12px;">
 
 <h1 align="center">Hi 👋, I'm Mohamed Ezriouil</h1>
 <p align="center">Software Engineer · Mobile & Web Developer</p>
