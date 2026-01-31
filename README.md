@@ -2,10 +2,6 @@
 <tr>
 
 <h1>Hi 👋, I'm Mohamed Ezriouil</h1>
-<p>Software Engineer · Mobile & Web Developer</p>
-<p>Building exceptional digital experiences</p>
-
----
 
 ### 👨‍💻 About Me
 
