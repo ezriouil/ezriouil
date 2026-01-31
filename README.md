@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ezriouil</h1>
+<h1>Hi 👋, I'm Mohamed Ezriouil</h1>
 
 ### 👨‍💻 About Me
 
@@ -47,9 +47,3 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezriouil&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</div>
