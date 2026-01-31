@@ -6,32 +6,11 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
 
 > *"My goal is simple: to be the best developer I can be."*
 
-- 🔭 Working on cross-platform apps with **Flutter** and native **Android/iOS**
-- 🌱 Improving backend skills and system design
+- 🔭 Working on mobile and web development
+- 🌱 Improving skills to build full-stack mobile and web apps
 - 💼 Open to collaboration on mobile and web projects
 - 📫 Reach me: **ezriouil.dev@gmail.com**
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezriouil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezriouil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
 ---
 
 ### 🛠️ Technologies
