@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Mohamed Ezriouil</h1>
+<h3 align="center">I'm a Software Engineer based in Morocco specializing in Mobile and Web Development. I focus on clean architecture, maintainable code, and building scalable applications.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Mohamed+Ezriouil;Software+Engineer+%7C+Mobile+%26+Web+Developer;Building+Exceptional+Digital+Experiences" alt="Typing SVG" />
 </div>
@@ -17,7 +24,7 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
 **Mobile**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
