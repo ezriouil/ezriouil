@@ -16,9 +16,22 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ezriouil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </p>
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ezriouil&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ezriouil&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 ---
 
 ### 🛠️ Technologies
