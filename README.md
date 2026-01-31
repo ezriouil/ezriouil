@@ -1,9 +1,9 @@
 <table width="100%">
 <tr>
 
-<h1 align="center">Hi 👋, I'm Mohamed Ezriouil</h1>
-<p align="center">Software Engineer · Mobile & Web Developer</p>
-<p align="center">Building exceptional digital experiences</p>
+<h1>Hi 👋, I'm Mohamed Ezriouil</h1>
+<p>Software Engineer · Mobile & Web Developer</p>
+<p>Building exceptional digital experiences</p>
 
 ---
 
