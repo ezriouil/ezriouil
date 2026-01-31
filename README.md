@@ -50,13 +50,6 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
 
 ---
 
-### 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://mohamedezriouil.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/mohamedezriouil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</div>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ezriouil&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
