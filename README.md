@@ -63,8 +63,8 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
   <a href="https://mohamedezriouil.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/mohamedezriouil/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/ezriouil" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.instagram.com/Med_ezriouil" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ezriouil&style=flat-square&color=blueviolet" alt="Profile Views"/>
