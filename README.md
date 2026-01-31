@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:7c3aed,100:ec4899&height=180&section=header&fontSize=42&animation=fadeIn&fontAlignY=32&desc=Software%20Engineer%20·%20Mobile%20%26%20Web%20Developer&descAlignY=51&descSize=20" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7c3aed,50:ec4899,100:58a6ff&amp;height=120&amp;section=footer&amp;reversal=true" width="100%" alt="Footer" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ezriouil</h1>
