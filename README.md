@@ -9,7 +9,7 @@ I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and 
 - 🔭 Working on mobile and web development
 - 🌱 Improving skills to build full-stack mobile and web apps
 - 💼 Open to collaboration on mobile and web projects
-- 📫 Reach me: **ezriouil.dev@gmail.com**
+- 📫 Reach me: **Info@mohamedezriouil.com**
 
 ---
 
