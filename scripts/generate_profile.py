@@ -15,7 +15,7 @@ USERNAME = "ezriouil"
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets"
 DATA = ROOT / "data"
-PALETTE = ["#ebe6d6", "#d8cfb4", "#b9a66f", "#8e7b45", "#5f512f"]
+PALETTE = ["#161b22", "#0c2d6b", "#1158c7", "#1f6feb", "#58a6ff"]
 
 
 def write(path: Path, content: str) -> None:
@@ -114,16 +114,16 @@ def render_heatmap(days: list[dict[str, int | str]]) -> None:
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210">
   <style>
     .serif {{ font-family: Georgia, "Times New Roman", serif; }} .mono {{ font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }}
-    .meta, .day {{ fill:#878278; font-size:10px; }} .cell {{ opacity:0; transform:translateY(6px); animation:rise .4s ease-out forwards; }}
+    .meta, .day {{ fill:#8b949e; font-size:10px; }} .cell {{ opacity:0; transform:translateY(6px); animation:rise .4s ease-out forwards; }}
     .pulse {{ transform-origin:839px 30px; animation:pulse 2.4s ease-in-out infinite; }}
     @keyframes rise {{ to {{ opacity:1; transform:translateY(0) }} }} @keyframes pulse {{ 50% {{ opacity:.35; transform:scale(.72) }} }}
   </style>
-  <rect x="1" y="1" width="898" height="208" rx="22" fill="#fdfcf7" stroke="#e8e4d8"/>
-  <text x="40" y="39" class="serif" fill="#181716" font-size="21">Consistency, <tspan font-style="italic">visualized.</tspan></text>
-  <circle class="pulse" cx="720" cy="30" r="5" fill="#8e7b45"/><text x="735" y="34" class="mono" fill="#878278" font-size="10">BUILDING IN PUBLIC</text>
+  <rect x="1" y="1" width="898" height="208" rx="22" fill="#0d1117" stroke="#30363d"/>
+  <text x="40" y="39" class="serif" fill="#f0f6fc" font-size="21">Consistency, <tspan font-style="italic" fill="#58a6ff">visualized.</tspan></text>
+  <circle class="pulse" cx="720" cy="30" r="5" fill="#58a6ff"/><text x="735" y="34" class="mono" fill="#8b949e" font-size="10">BUILDING IN PUBLIC</text>
   <text class="day mono" x="42" y="85">M</text><text class="day mono" x="42" y="113">W</text><text class="day mono" x="42" y="141">F</text>
   {''.join(cells)}
-  <line x1="40" y1="171" x2="860" y2="171" stroke="#e8e4d8"/>
+  <line x1="40" y1="171" x2="860" y2="171" stroke="#30363d"/>
   <text class="meta mono" x="40" y="192">{total:,} CONTRIBUTIONS · CURRENT {current} DAYS · LONGEST {longest} DAYS</text>
   <text class="meta mono" x="738" y="192">UPDATED {datetime.now().date().isoformat()}</text>
 </svg>'''
