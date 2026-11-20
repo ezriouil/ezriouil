@@ -1,21 +1,10 @@
 <div align="center">
 
-### `mohamed@github ~ $ ./contributions.sh`
-
-<img src="./assets/contributions.svg" width="860" alt="Mohamed Ezriouil's animated GitHub contribution graph" />
+<img src="./assets/profile-hero.svg" width="900" alt="Mohamed Ezriouil — Software Engineer building mobile, web, and AI products" />
 
 <br>
 
-### `mohamed@github ~ $ whoami`
-
-<table>
-  <tr>
-    <td valign="top"><img src="./assets/avatar-ascii.svg" width="370" alt="Animated ASCII portrait of Mohamed Ezriouil" /></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="465" alt="Mohamed Ezriouil — Software Engineer focused on mobile, web, and AI" /></td>
-  </tr>
-</table>
-
-I'm a **Software Engineer** based in **Morocco**, building **mobile apps**, **web platforms**, and **AI-powered products** from idea to production.
+<img src="./assets/contributions.svg" width="900" alt="Mohamed Ezriouil's animated GitHub contribution graph" />
 
 [Portfolio](https://mohamedezriouil.com) · [LinkedIn](https://www.linkedin.com/in/mohamedezriouil/) · [Email](mailto:contact@mohamedezriouil.com)
 

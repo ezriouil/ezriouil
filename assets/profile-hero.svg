@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="430" viewBox="0 0 900 430">
+  <defs><radialGradient id="glow" cx="72%" cy="5%" r="68%"><stop offset="0" stop-color="#ebe6d6"/><stop offset="1" stop-color="#f6f5f0"/></radialGradient></defs>
+  <style>
+    .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .serif { font-family: Georgia, "Times New Roman", serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .intro { opacity: 0; animation: enter .75s cubic-bezier(.2,.8,.2,1) forwards; }
+    .d1 { animation-delay: .12s; } .d2 { animation-delay: .28s; } .d3 { animation-delay: .44s; }
+    .chip { opacity: 0; animation: chipIn .5s ease-out forwards; }
+    .c1 { animation-delay: .7s; } .c2 { animation-delay: .82s; } .c3 { animation-delay: .94s; }
+    .word1 { animation: word1 9s ease-in-out infinite; } .word2 { animation: word2 9s ease-in-out infinite; } .word3 { animation: word3 9s ease-in-out infinite; }
+    .star { transform-origin: 816px 62px; animation: spin 12s linear infinite; }
+    @keyframes enter { from { opacity:0; transform:translateY(13px) } to { opacity:1; transform:translateY(0) } }
+    @keyframes chipIn { from { opacity:0; transform:translateX(-8px) } to { opacity:1; transform:translateX(0) } }
+    @keyframes word1 { 0%,28% { opacity:1; transform:translateY(0) } 33%,95% { opacity:0; transform:translateY(-8px) } 96%,100% { opacity:1; transform:translateY(0) } }
+    @keyframes word2 { 0%,30% { opacity:0; transform:translateY(8px) } 34%,61% { opacity:1; transform:translateY(0) } 66%,100% { opacity:0; transform:translateY(-8px) } }
+    @keyframes word3 { 0%,63% { opacity:0; transform:translateY(8px) } 67%,94% { opacity:1; transform:translateY(0) } 99%,100% { opacity:0; transform:translateY(-8px) } }
+    @keyframes spin { to { transform:rotate(360deg) } }
+  </style>
+  <rect x="1" y="1" width="898" height="428" rx="22" fill="url(#glow)" stroke="#e8e4d8"/>
+  <text x="48" y="62" class="serif" fill="#181716" font-size="25" font-style="italic">me.</text>
+  <text x="672" y="61" class="mono" fill="#878278" font-size="11" letter-spacing="1.2">MOHAMEDEZRIOUIL.COM</text>
+  <text x="816" y="70" class="serif star" fill="#b9a66f" font-size="25">✶</text>
+  <g class="intro d1"><text x="48" y="116" class="mono" fill="#878278" font-size="12" letter-spacing="1.8">SOFTWARE ENGINEER · MOROCCO</text></g>
+  <g class="intro d2"><text x="48" y="177" class="serif" fill="#181716" font-size="50">Hi, I’m <tspan font-style="italic">Mohamed Ezriouil.</tspan></text><text x="49" y="211" class="sans" fill="#878278" font-size="16">Creating dependable products with clarity and purpose.</text></g>
+  <g class="intro d3">
+    <rect x="48" y="244" width="804" height="76" rx="16" fill="#fdfcf7" stroke="#e8e4d8"/>
+    <text x="72" y="289" class="serif" fill="#181716" font-size="26">I build</text>
+    <text x="164" y="289" class="serif word1" fill="#8e7b45" font-size="26" font-style="italic">mobile products.</text>
+    <text x="164" y="289" class="serif word2" fill="#8e7b45" font-size="26" font-style="italic">web platforms.</text>
+    <text x="164" y="289" class="serif word3" fill="#8e7b45" font-size="26" font-style="italic">AI-powered experiences.</text>
+    <text x="825" y="288" text-anchor="end" class="mono" fill="#b4afa1" font-size="11">IDEA → PRODUCTION</text>
+  </g>
+  <g class="chip c1"><rect x="48" y="347" width="170" height="38" rx="19" fill="#ebe6d6"/><text x="133" y="371" text-anchor="middle" class="sans" fill="#181716" font-size="12">📱 Mobile Developer</text></g>
+  <g class="chip c2"><rect x="230" y="347" width="164" height="38" rx="19" fill="#ebe6d6"/><text x="312" y="371" text-anchor="middle" class="sans" fill="#181716" font-size="12">🌐 Web Specialist</text></g>
+  <g class="chip c3"><rect x="406" y="347" width="179" height="38" rx="19" fill="#ebe6d6"/><text x="495" y="371" text-anchor="middle" class="sans" fill="#181716" font-size="12">🤖 AI Product Builder</text></g>
+  <text x="682" y="371" class="mono" fill="#878278" font-size="11">OPEN TO COLLABORATION</text>
+</svg>
