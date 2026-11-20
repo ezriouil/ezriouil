@@ -8,7 +8,7 @@ I'm a **Software Engineer** based in **Morocco**, building **mobile apps**, **we
 - 🌐 Developing full-stack web platforms
 - 🤖 Creating practical AI-powered products and features
 - 💼 Open to software engineering opportunities and product collaborations
-- 📫 Reach me: **contact@mohamedezriouil.com**
+- 📫 Portfolio: **www.mohamedezriouil.com**
 
 
 <div align="center">
