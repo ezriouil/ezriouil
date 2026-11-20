@@ -2,14 +2,15 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Engineer** based in **Morocco** specializing in **Mobile** and **Web Development**. I focus on clean architecture, maintainable code, and building scalable applications.
+I'm a **Software Engineer** based in **Morocco**, building **mobile apps**, **web platforms**, and **AI-powered products** from idea to production. I focus on clean architecture, maintainable code, and scalable applications.
 
-> *"My goal is simple: to be the best developer I can be."*
+> *"My goal is simple: to build useful products and keep improving with every release."*
 
-- 🔭 Working on mobile and web development
-- 🌱 Improving skills to build full-stack mobile and web apps
-- 💼 Open to collaboration on mobile and web projects
-- 📫 Reach me: **Info@mohamedezriouil.com**
+- 📱 Building mobile products for iOS and Android
+- 🌐 Developing full-stack web platforms
+- 🤖 Creating practical AI-powered products and features
+- 💼 Open to software engineering opportunities and product collaborations
+- 📫 Reach me: **contact@mohamedezriouil.com**
 
 ---
 
