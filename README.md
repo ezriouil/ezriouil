@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Mohamed Ezriouil</h1>
+<h1>Hi, I'm Mohamed Ezriouil 👋</h1>
 
 ### 👨‍💻 About Me
 
