@@ -12,9 +12,9 @@ I'm a **Software Engineer** based in **Morocco**, building **mobile apps**, **we
 
 <div align="center">
 
-
-<img src="./assets/contributions.svg" width="900" alt="Mohamed Ezriouil's animated GitHub contribution graph" />
+<img src="./assets/contributions-blue.svg" width="900" alt="Mohamed Ezriouil's animated GitHub contribution graph" />
 
 [Portfolio](https://mohamedezriouil.com) · [LinkedIn](https://www.linkedin.com/in/mohamedezriouil/) · [Email](mailto:contact@mohamedezriouil.com)
 
 </div>
+

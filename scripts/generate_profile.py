@@ -127,7 +127,7 @@ def render_heatmap(days: list[dict[str, int | str]]) -> None:
   <text class="meta mono" x="40" y="192">{total:,} CONTRIBUTIONS · CURRENT {current} DAYS · LONGEST {longest} DAYS</text>
   <text class="meta mono" x="738" y="192">UPDATED {datetime.now().date().isoformat()}</text>
 </svg>'''
-    write(ASSETS / "contributions.svg", svg)
+    write(ASSETS / "contributions-blue.svg", svg)
 
 
 def main() -> None:
